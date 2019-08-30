@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shiv Chalisa</string>
+
+    <string name="title_menu_group1">SHIV BHAJANS</string>
+
+    <string name="title_shiv_chalisa">Shiv Chalisa</string>
+    <string name="title_mm_mantra">Maha Mritunjay Mantra</string>
+    <string name="title_lingashtakam">Lingashtakam</string>
+    <string name="title_shivashtakam">Shivashtakam</string>
+    <string name="title_panchakshara_strotam">Panchakshara Strotam</string>
+
+    <string name="title_menu_group2">OTHERS</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_share">Share</string>
+    <string name="title_about">About Us</string>
+    <string name="title_rate">Rate Us</string>
+
+    <string-array name="title_menu">
+        <item>Shiv Chalisa</item>
+        <item>Maha Mritunjay Mantra</item>
+        <item>Lingashtakam</item>
+        <item>Shivashtakam</item>
+        <item>Panchakshara Strotam</item>
+    </string-array>
+
+    <string name="content_shiv_chalisa">Shri Shiv Chalisa\n\n॥Doha॥\nJai Ganesh Girija Suvan Mangal Mul Sujan\nKahat Ayodhya Das Tum Dev Abhaya Varadan\n\n॥Chaupai॥\n
+        Jai Girija Pati Dinadayala\nSada Karat Santan Pratipala\nBhala Chandrama Sohat Nike\nKanan Kundal Nagaphani Ke\n\nAnga Gaur Shira Ganga Bahaye\nMundamala Tan Chhara Lagaye\nVastra Khala Baghambar Sohain\n
+        Chhavi Ko Dekha Naga Muni Mohain\n\nMaina Matu Ki Havai Dulari\nVama Anga Sohat Chhavi Nyari\nKara Trishul Sohat Chhavi Bhari\nKarat Sada Shatrun Chhayakari\n\nNandi Ganesh Sohain Tahan Kaise\nSagar Madhya Kamal Hain Jaise\n
+        Kartik Shyam Aur Gana rauo\nYa Chhavi Ko Kahi Jata Na Kauo\n\nDevan Jabahi Jaya Pukara\nTabahi Dukha Prabhu Apa Nivara\nKiya Upadrav Tarak Bhari\nDevan Sab Mili Tumahi Juhari\n\nTurata Shadanana Apa Pathayau\n
+        Luv nimesh Mahi Mari Girayau\nApa Jalandhara Asura Sanhara\nSuyash Tumhara Vidit Sansara\n\nTripurasur Sana Yudha Machai\nSabhi Kripakar Lina Bachai\nKiya Tapahin Bhagiratha Bhari\nPurahi Pratigya Tasu Purari\n\n
+        Darpa chod Ganga thabb Aayee\nSevak Astuti Karat Sadahin\nVeda Nam Mahima Tav Gai\nAkatha Anandi Bhed Nahin Pai\n\nPragati Udadhi Mantan te Jvala\nJarae Sura-Sur Bhaye bihala\nMahadev thab Kari Sahayee,\nNilakantha Tab Nam Kahai\n\n
+        Pujan Ramchandra Jab Kinha\nJiti Ke Lanka Vibhishan Dinhi\nSahas Kamal Men Ho Rahe Dhari\nKinha Pariksha Tabahin Purari\nEk Kamal Prabhu Rakheu goyee\nKushal-Nain Pujan Chahain Soi\nKathin Bhakti Dekhi Prabhu Shankar\n
+        Bhaye Prasanna Diye-Ichchhit Var\n\nJai Jai Jai Anant Avinashi\nKarat Kripa Sabake Ghat Vasi\nDushta Sakal Nit Mohin Satavai\nBhramat Rahe Man Chain Na Avai\n\nTrahi-Trahi Main Nath Pukaro\nYahi Avasar Mohi Ana Ubaro\n
+        Lai Trishul Shatrun Ko Maro\nSankat Se Mohin Ana Ubaro\n\nMata Pita Bhrata Sab Hoi\nSankat Men Puchhat Nahin Koi\nSwami Ek Hai Asha Tumhari\nAi Harahu Ab Sankat Bhari\n\n
+        Dhan Nirdhan Ko Deta Sadahin\nArat jan ko peer mitaee,\nAstuti Kehi Vidhi Karai Tumhari\nShambhunath ab tek tumhari\n\nDhana Nirdhana Ko Deta Sadaa Hii\nJo Koi Jaanche So Phala Paahiin\nAstuti Kehi Vidhi Karon Tumhaarii\n
+        Kshamahu Naatha Aba Chuuka Hamaarii\n\nShankar Ho Sankat Ke Nashan\nVighna Vinashan Mangal Karan\nYogi Yati Muni Dhyan Lagavan\nSharad Narad Shisha Navavain\n\nNamo Namo Jai Namah Shivaya\nSura Brahmadik Par Na Paya\n
+        Jo Yah Patha Karai Man Lai\nTo kon Hota Hai Shambhu Sahai\n\nRiniyan Jo Koi Ho Adhikari\nPatha Karai So Pavan Hari\nPutra-hin Ichchha Kar Koi\nNischaya Shiva Prasad Tehin Hoi\n\nPandit Trayodashi Ko Lavai\nDhyan-Purvak Homa Karavai\n
+        Trayodashi Vrat Kare Hamesha\nTan Nahin Take Rahe Kalesha\n\nDhuupa Diipa Naivedya Chadhaave\nShankara Sammukha Paatha Sunaave\nJanma Janma Ke Paapa Nasaave\nAnta Dhaama Shivapura Men Paave\n\n॥Doha॥\nNitya Nema uthi Pratahi, Patha karau Chalisa\n
+        Tum Meri Man Kamana Purna Karahu Jagadisha\nMagsir chati hemant ritu, savant chausath jaan\nStuti chalisa shivahi, purna keen kalyan\n\n</string>
+
+    <string name="content_mm_mantra">Shri Maha Mritunjay Mantra\n\nOm Tryambakam Yajamahe Sugandhim Pushti-Vardhanam\nUrvarukamiva Bandhanan Mrityormukshiya Mamrita\n\n</string>
+
+    <string name="content_lingashtakam">Shri Lingashtakam\n\nBrahma Muraari Surarchita Lingam\nNirmala Bhaashita Sobhitha Lingam\nJanmaja Dhukha Vinaasaha Lingam\nTatpranamaami Sadaashiva Lingam\n\n
+        Devamuni Pravaraarchita Lingam\nKaama Dahana Karunaakara Lingam\nRavana Darpa Vinaasaha Lingam\nTatpranamaami Sadaashiva Lingam\n\n
+        Sarva Sugandha Sulepitha Lingam\nBuddhi Vivaardhana Kaarana Lingam\nSiddha Suraasura Vandhitha Lingam\nTatpranamaami Sadaashiva Lingam\n\n
+        Kanaga Mahaamani Bhooshitha Lingam\nPanipati Veshthitha Sobitha Lingam\nDaksha Suyajna Vinaasana Lingam\nTatpranamaami Sadaashiva Lingam\n\nKunkuma Chandhana Lehpitha Lingam\nPankaja Haara Susobhitha Lingam\nSanchitha Paapa Vinaashana Lingam\n
+        Tatpranamaami Sadaashiva Lingam\n\nDeva Ganaarchita Sevitha Lingam\nBhavair Bhakhi Bhirevacha Lingam\nDinakara Koti Prabhaakara Lingam\nTatpranamaami Sadaashiva Lingam\n\nAhshta Dalopari Veshthitha Lingam\nSarva Samudbhava Kaarana Lingam\n
+        Ahshta Daridra Vinaasana Lingam\nTatpranamaami Sadaashiva Lingam\n\nSuraguru Suravara Poojitha Lingam\nSuravana Pushpa Sadarchitha Lingam\nParaath Param Paramatmaka Lingam\nTatpranamaami Sadaashiva Lingam\n\nLingashtaka Midam Punyam\n
+        Yah Pathet Sivasannidhau\nSivaloka Mahaapnoti\nSivehna Saha Modatheh\n\n</string>
+
+    <string name="content_shivashtakam">Shri Shivashtakam\n\nPrabhuṃ prāṇanāthaṃ vibhuṃ viśvanāthaṃ jagannātha nāthaṃ sadānanda bhājām\nBhavadbhavya bhūteśvaraṃ bhūtanāthaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\nGaḷe ruṇḍamālaṃ tanau sarpajālaṃ mahākāla kālaṃ gaṇeśādi pālam\n
+        Jaṭājūṭa gaṅgottaraṅgai rviśālaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\nMudāmākaraṃ maṇḍanaṃ maṇḍayantaṃ mahā maṇḍalaṃ bhasma bhūṣādharaṃ tam\nAnādiṃ hyapāraṃ mahā mohamāraṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\n
+        Vaṭādho nivāsaṃ mahāṭṭāṭṭahāsaṃ mahāpāpa nāśaṃ sadā suprakāśam\nGirīśaṃ gaṇeśaṃ sureśaṃ maheśaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\nGirīndrātmajā saṅgṛhītārdhadehaṃ girau saṃsthitaṃ sarvadāpanna geham\nParabrahma brahmādibhir-vandyamānaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\n
+        Kapālaṃ triśūlaṃ karābhyāṃ dadhānaṃ padāmbhoja namrāya kāmaṃ dadānam\Balīvardhamānaṃ surāṇāṃ pradhānaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\nSaraccandra gātraṃ gaṇānandapātraṃ trinetraṃ pavitraṃ dhaneśasya mitram\nAparṇā kaḷatraṃ sadā saccaritraṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\n
+        Haraṃ sarpahāraṃ citā bhūvihāraṃ bhavaṃ vedasāraṃ sadā nirvikāraṃ\nSmaśāne vasantaṃ manojaṃ dahantaṃ, śivaṃ śaṅkaraṃ śambhu mīśānamīḍe\n\n</string>
+
+    <string name="content_panchakshara_strotam">Shri Shiv Panchakshara Strota\n\nNaagendra-Haaraaya Tri-LocanaayaBhasma-Angga-Raagaaya Mahe[a-Ii]shvaraaya\nNityaaya Shuddhaaya Dig-Ambaraaya\nTasmai Nakaaraaya Namah Shivaaya\n\nMandaakinii-Salila-Candana-Carcitaaya\nNandi-Iishvara-Pramatha-Naatha-Mahe shvaraaya\n
+        Mandaara-Pusspa-Bahu-Pusspa-Su-Puujitaaya\nTasmai Makaaraaya Namah Shivaaya\n\nShivaaya Gaurii-Vadana-Abja-Vrnda-Suuryaaya\nDakssa-Adhvara-Naashakaaya\nShrii-Niilakanntthaaya Vrssa-Dhvajaaya\nTasmai Shikaaraaya Namah Shivaayan\n\nVashissttha-Kumbhodbhava-Gautama-Aarya\n
+        Muuni-Indra-Deva-Aarcita-Shekharaaya\nCandra-Aarka-Vaishvaanara-Locanaaya\nTasmai Vakaaraaya Namah Shivaaya\n\nYajnya-Svaruupaaya Jattaa-Dharaaya\nPinaaka-Hastaaya Sanaatanaaya\nDivyaaya Devaaya Dig-Ambaraaya\nTasmai Yakaaraaya Namah Shivaaya\n\nPan.caakssaram-Idam Punnyam Yah Patthe-Shiva-Samnidhau\n
+        Shivalokam-Aavaapnoti Shivena Saha Modate\n\n</string>
+
+    <string-array name="lang_pref">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="size_pref">
+        <item>12 sp</item>
+        <item>14 sp</item>
+        <item>16 sp</item>
+        <item>18 sp</item>
+        <item>20 sp</item>
+    </string-array>
+
+    <string-array name="size_val">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="color_pref">
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="settings_key">
+        <item>setting_lang</item>
+        <item>setting_size</item>
+        <item>setting_style</item>
+        <item>setting_color</item>
+    </string-array>
+
+    <string name="key_pref_lang">setting_lang</string>
+    <string name="key_pref_size">setting_size</string>
+    <string name="key_pref_color">setting_color</string>
+
+    <string name="title_rate_dialog">Rate Us</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="rate_btn">Rate</string>
+
+    <string name="title_about_dialog">About Us</string>
+
+    <string name="antlogo_desc">Anteour Inc.</string>
+    <string name="launcher_desc">Shiv Chalisa</string>
+
+    <string name="about_us">Shiv Chalisa (v1.1.1), it\'s logo, services and products are registered trademarks of Anteour Inc. \n\nDeveloped by Anteour Inc.</string>
+    <string name="anteour_link">https://www.anteour.com</string>
+
+    <string name="extra_sub">Download Shiv Chalisa</string>
+
+    <string name="no_media_playing">Cannot move while media is paused!</string>
+
+    <string name="extra_text">https://play.google.com/store/apps/details?id=com.anteour.shivchalisa</string>
+
+</resources>

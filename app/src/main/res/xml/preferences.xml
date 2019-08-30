@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="General">
+        <ListPreference
+            android:defaultValue="Hindi"
+            android:entries="@array/lang_pref"
+            android:entryValues="@array/lang_pref"
+            android:icon="@drawable/ic_language"
+            android:key="@string/key_pref_lang"
+            android:summary="English"
+            android:title="Language" />
+        <ListPreference
+            android:defaultValue="16"
+            android:entries="@array/size_pref"
+            android:entryValues="@array/size_val"
+            android:icon="@drawable/ic_format_size"
+            android:key="@string/key_pref_size"
+            android:summary="16 sp"
+            android:title="Font Size" />
+        <ListPreference
+            android:defaultValue="White"
+            android:entries="@array/color_pref"
+            android:entryValues="@array/color_pref"
+            android:icon="@drawable/ic_format_color"
+            android:key="@string/key_pref_color"
+            android:summary="White"
+            android:title="Font Color" />
+    </PreferenceCategory>
+</PreferenceScreen>

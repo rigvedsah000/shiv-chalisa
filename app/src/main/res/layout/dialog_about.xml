@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="320dp"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/img_logo"
+        android:layout_width="@dimen/dimen72"
+        android:layout_height="@dimen/dimen72"
+        android:contentDescription="@string/antlogo_desc"
+        android:src="@drawable/ic_logo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="@dimen/dimen64"
+        android:layout_height="@dimen/dimen64"
+        android:layout_marginEnd="@dimen/dimen8"
+        android:layout_marginTop="@dimen/dimen4"
+        android:contentDescription="@string/launcher_desc"
+        android:src="@drawable/ic_launcher"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtview_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen8"
+        android:text="@string/about_us"
+        app:layout_constraintTop_toBottomOf="@+id/img_logo" />
+
+    <TextView
+        android:id="@+id/txtview_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:padding="@dimen/dimen8"
+        android:text="@string/anteour_link"
+        app:layout_constraintTop_toBottomOf="@+id/txtview_about" />
+
+</android.support.constraint.ConstraintLayout>
